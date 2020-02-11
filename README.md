@@ -1,2 +1,2 @@
-# MotionPlanning
-Motion Planning Algorithms
+# PahtPlanning
+Path Planning Algorithms
